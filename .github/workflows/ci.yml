@@ -28,3 +28,5 @@ jobs:
         run: python examples/quickstart.py
       - name: Run benchmark
         run: python -m fedcal.benchmark
+      - name: Run multi-seed calibration stability check
+        run: python -m fedcal.eval_v2
