@@ -2,7 +2,6 @@
 
 FedAvg's marketing photo has every client looking identical and happy. fedcal takes that photo, gives one client a bad day, and measures what happens.
 
-![CI](https://github.com/ahmeddoghri/fedcal/actions/workflows/ci.yml/badge.svg)
 ![python](https://img.shields.io/badge/python-3.9%2B-blue)
 ![deps](https://img.shields.io/badge/runtime%20deps-none-success)
 ![license](https://img.shields.io/badge/license-MIT-black)
